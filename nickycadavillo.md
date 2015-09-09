@@ -4,7 +4,7 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
+| _:house:_ | Westbury, NY, USA |
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 
@@ -53,3 +53,7 @@
 | category        | value                        |
 |-----------------|------------------------------|
 | _:hand:-edness_ | :point_left: / :point_right: |
+
+##Other Fun Facts:
+
+Nicky Cadavillo was born at the top of an active volcano. Her birth was foretold by a sparrow, who said she would grow up to be the greatest programmer of all time. She was often picked on by other kids, because her JS skills far surpassed their own. Upon graduation from SuperMegaHighSchool, she gave a Ted Talk entitled “General Badassery: Being Nicky Cadavillo.” In Fall 2015, she began attending the Iron Yard Durham, where she currently studies Front End Engineering. In her free time, she enjoys wrestling alligators and bending spoons with her mind.
