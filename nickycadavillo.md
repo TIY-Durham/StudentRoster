@@ -4,7 +4,7 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | NYC, USA |
+| _:house:_ | Westbury, NY, USA |
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 
