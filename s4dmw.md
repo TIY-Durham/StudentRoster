@@ -5,51 +5,51 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | Raleigh, NC|
-| _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ | _:calendar:_ |
+| _:dog: or :cat:_ | :dog: |
+| _:birthday:_ | Feb 24 |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
+| _sport_  | :football:  |
 | _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
+| _drink_  | :beer:|
 | _food_   | --- |
 | _movie_  | --- |
-| _book_  | :books: |
-| _travel_ | :earth_americas: |
-| _craft_  | :art: |
+| _book_  | eww, gross |
+| _travel_ | lots |
+| _craft_  | :beer: |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _zodiac_ | :pisces: |
+| _spirit animal_ | :dog: |
+| _celeb birthday_ | Steve Jobs |
 
 ## Apple Fanboy/Fangirl??
-| :iphone: | Y/N |
+| :iphone: | N |
 
 ## Theme Parks!
 | category | value |
 |----------|--------|
-| _:ferris_wheel: or :roller_coaster:_ | --- |
-| _:monorail: or :bus:_ | --- |
-| _:poultry_leg: or :hamburger:_ | --- |
-| _:mouse: or :earth_americas:_| --- |
+| _:ferris_wheel: or :roller_coaster:_ | :roller_coaster: |
+| _:monorail: or :bus:_ | :car: |
+| _:poultry_leg: or :hamburger:_ | :pizza: |
+| _:mouse: or :earth_americas:_| :mouse: |
 
 ## Fashion Style :bowtie:
 +
 +| category | value |
 +|----------|-------|
-+| _hat_ | --- |
-+| _clothing_ | --- |
-+| _shoes_ | --- |
++| _hat_ | nope |
++| _clothing_ | yep |
++| _shoes_ | nope |
 
 ## Randomness
 
 | category        | value                        |
 |-----------------|------------------------------|
-| _:hand:-edness_ | :point_left: / :point_right: |
+| _:hand:-edness_ |  :point_right: |
