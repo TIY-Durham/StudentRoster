@@ -5,8 +5,8 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | Raleigh, NC|
-| _:dog:_ | Patch |
-| _:birthday:_ | February 24th |
+| _:dog: or :cat:_ | :dog: |
+| _:birthday:_ | Feb 24 |
 
 ## Faves! :v:
 
@@ -25,31 +25,31 @@
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _zodiac_ | :pisces: |
+| _spirit animal_ | :dog: |
+| _celeb birthday_ | Steve Jobs |
 
 ## Apple Fanboy/Fangirl??
-| :iphone: | Y/N |
+| :iphone: | N |
 
 ## Theme Parks!
 | category | value |
 |----------|--------|
-| _:ferris_wheel: or :roller_coaster:_ | --- |
-| _:monorail: or :bus:_ | --- |
-| _:poultry_leg: or :hamburger:_ | --- |
-| _:mouse: or :earth_americas:_| --- |
+| _:ferris_wheel: or :roller_coaster:_ | :roller_coaster: |
+| _:monorail: or :bus:_ | :car: |
+| _:poultry_leg: or :hamburger:_ | :pizza: |
+| _:mouse: or :earth_americas:_| :mouse: |
 
 ## Fashion Style :bowtie:
 +
 +| category | value |
 +|----------|-------|
-+| _hat_ | --- |
-+| _clothing_ | --- |
-+| _shoes_ | --- |
++| _hat_ | nope |
++| _clothing_ | yep |
++| _shoes_ | nope |
 
 ## Randomness
 
 | category        | value                        |
 |-----------------|------------------------------|
-| _:hand:-edness_ | :point_left: / :point_right: |
+| _:hand:-edness_ |  :point_right: |

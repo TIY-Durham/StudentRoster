@@ -6,22 +6,22 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
+| _:house:_ | Provo, UT |
 | _:dog: or :cat:_ | :cat: |
-| _:birthday:_ | August 29th |
+| _:birthday:_ | Aug 29 |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
 | _sport_  | :baseball: |
-| _team_   | Washington Nationals |
+| _team_   | washington nationals |
 | _drink_  | :beer: |
-| _food_   | Dirt |
-| _movie_  | IP Man |
+| _food_   | mutter paneer |
+| _movie_  | Ip man |
 | _book_  | The Name of the Wind |
-| _travel_ | These United States of America |
-| _craft_  | Music |
+| _travel_ | yes |
+| _craft_  | music |
 
 ## Esoteric :crystal_ball:
 
