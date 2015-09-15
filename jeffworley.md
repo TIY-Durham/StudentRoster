@@ -7,21 +7,21 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | Small Town, USA |
-| _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ | _:calendar:_ |
+| _:dog: or :cat:_ | :cat: |
+| _:birthday:_ | August 29th |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
-| _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
-| _movie_  | --- |
-| _book_  | :books: |
-| _travel_ | :earth_americas: |
-| _craft_  | :art: |
+| _sport_  | :baseball: |
+| _team_   | Washington Nationals |
+| _drink_  | :beer: |
+| _food_   | Dirt |
+| _movie_  | IP Man |
+| _book_  | The Name of the Wind |
+| _travel_ | These United States of America |
+| _craft_  | Music |
 
 ## Esoteric :crystal_ball:
 
