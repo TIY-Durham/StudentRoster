@@ -15,14 +15,14 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
-| _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
-| _movie_  | --- |
-| _book_  | :books: |
-| _travel_ | :earth_americas: |
-| _craft_  | :art: |
+| _sport_  | none |
+| _team_   | none |
+| _drink_  | tea |
+| _food_   | kimchi |
+| _movie_  | The Princess Bride |
+| _book_  | The Hitchhiker's Guide to the Galaxy |
+| _travel_ | everywhere! |
+| _craft_  | knit |
 
 ## Esoteric :crystal_ball:
 
