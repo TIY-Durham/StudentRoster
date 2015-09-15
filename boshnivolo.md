@@ -6,22 +6,22 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
-| _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ | _:calendar:_ |
+| _:house:_ | Baltimore, MD |
+| _:cat:_ |  :snake: |
+| _:birthday:_ | 9/16 (TOMORROW!) |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
+| _sport_  | soccer, tennis |
 | _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
-| _movie_  | --- |
-| _book_  | :books: |
-| _travel_ | :earth_americas: |
-| _craft_  | :art: |
+| _drink_  | water or tequilla! |
+| _food_   | spaghetti |
+| _movie_  | Ferris Bueller's Day Off |
+| _book_  | Anthropologist on Mars |
+| _travel_ | Korea |
+| _craft_  | drawing |
 
 ## Esoteric :crystal_ball:
 
