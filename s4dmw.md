@@ -8,17 +8,18 @@
 | _:dog: or :cat:_ | :dog: |
 | _:birthday:_ | Feb 24 |
 
+
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :football:  |
-| _team_   | --- |
-| _drink_  | :beer:|
-| _food_   | :hamburger: |
-| _movie_  | Brokeback Mtn |
-| _book_  | eww, gross |
-| _travel_ | lots |
+| _sport_  | Racing |
+| _team_   | None |
+| _drink_  | :beer: |
+| _food_   | :pizza: |
+| _movie_  | Fight Club |
+| _book_  | Dictionary |
+| _travel_ | All over |
 | _craft_  | :beer: |
 
 ## Esoteric :crystal_ball:

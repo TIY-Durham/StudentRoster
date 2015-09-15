@@ -10,6 +10,7 @@
 | _:dog: or :cat:_ | :cat: |
 | _:birthday:_ | Aug 29 |
 
+
 ## Faves! :v:
 
 | category | value |
@@ -22,6 +23,7 @@
 | _book_  | The Name of the Wind |
 | _travel_ | yes |
 | _craft_  | music |
+
 
 ## Esoteric :crystal_ball:
 
