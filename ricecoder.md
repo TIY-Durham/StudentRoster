@@ -8,8 +8,8 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | Vero Beach, Florida |
-| _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ | _:calendar:_ |
+| _:dog:_| :bird: |
+| _:birthday:_ | September, 13 |
 
 ## Faves! :v:
 
