@@ -14,7 +14,7 @@
 |----------|--------|
 | _sport_  | :football: :basketball: etc |
 | _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
+| _drink_  | wine |
 | _food_   | --- |
 | _movie_  | --- |
 | _book_  | :books: |
