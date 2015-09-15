@@ -1,10 +1,10 @@
-# [Terry Calhoun](https://github.com/drumslayert)
-# [drumslayert](https://github.com/drumslayert)
-[![Terry Calhoun](https://avatars0.githubusercontent.com/u/10352970?v=3&s=460)](https://github.com/drumslayert)
+# [Camille Mauban](https://github.com/cmauban)
+
+![Camille Mauban](http://i.imgur.com/qHRoVzD.jpg?1)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Tampa, FL, USA |
+| _:house:_ | Raleigh, NC |
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 

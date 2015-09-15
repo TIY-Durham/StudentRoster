@@ -1,10 +1,10 @@
-# [Terry Calhoun](https://github.com/drumslayert)
-# [drumslayert](https://github.com/drumslayert)
-[![Terry Calhoun](https://avatars0.githubusercontent.com/u/10352970?v=3&s=460)](https://github.com/drumslayert)
+# [Nicky Cadavillo][https://github.com/nickycadavillo)
+
+![Nicky Cadavillo](https://avatars1.githubusercontent.com/u/11246178?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Tampa, FL, USA |
+| _:house:_ | Small Town, USA |
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 

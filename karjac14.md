@@ -1,12 +1,12 @@
-# [Terry Calhoun](https://github.com/drumslayert)
-# [drumslayert](https://github.com/drumslayert)
-[![Terry Calhoun](https://avatars0.githubusercontent.com/u/10352970?v=3&s=460)](https://github.com/drumslayert)
+# [Karlo Eleuterio](https://github.com/karjac14)
+
+![Karlo Eleuterio](https://avatars3.githubusercontent.com/u/8317978?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Tampa, FL, USA |
-| _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ | _:calendar:_ |
+| _:house:_ | Philipines |
+| _:dog: or :cat:_ |  |
+| _:birthday:_ | June 01 |
 
 ## Faves! :v:
 
@@ -14,7 +14,7 @@
 |----------|--------|
 | _sport_  | :football: :basketball: etc |
 | _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
+| _drink_  | Milk |
 | _food_   | --- |
 | _movie_  | --- |
 | _book_  | :books: |

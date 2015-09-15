@@ -1,10 +1,12 @@
-# [Terry Calhoun](https://github.com/drumslayert)
-# [drumslayert](https://github.com/drumslayert)
-[![Terry Calhoun](https://avatars0.githubusercontent.com/u/10352970?v=3&s=460)](https://github.com/drumslayert)
+# [Jonathan Creasman](https://github.com/jmcreasman)
+
+[jmcreasman](https://github.com/jmcreasman)
+
+[![Jonathan Creasman] (http://i.imgur.com/ikGn4r4.jpg)] (https://github.com/jmcreasman)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Tampa, FL, USA |
+| _:house:_ | Cary, NC |
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 

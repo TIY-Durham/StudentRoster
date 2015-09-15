@@ -1,10 +1,11 @@
-# [Terry Calhoun](https://github.com/drumslayert)
-# [drumslayert](https://github.com/drumslayert)
-[![Terry Calhoun](https://avatars0.githubusercontent.com/u/10352970?v=3&s=460)](https://github.com/drumslayert)
+# [Jeremy Rist](https://github.com/jeremyrist)
+# [jeremyrist](https://github.com/jeremyrist)
+
+![Jeremy Rist](https://avatars3.githubusercontent.com/u/13407041?v=3&s=460)(https://github.com/jeremyrist)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Tampa, FL, USA |
+| _:house:_ |Durham, USA |
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 

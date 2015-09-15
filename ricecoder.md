@@ -1,10 +1,13 @@
-# [Terry Calhoun](https://github.com/drumslayert)
-# [drumslayert](https://github.com/drumslayert)
-[![Terry Calhoun](https://avatars0.githubusercontent.com/u/10352970?v=3&s=460)](https://github.com/drumslayert)
+# [Lacey Rice](https://github.com/Ricecoder)
+
+[![Lacey Rice](https://avatars0.githubusercontent.com/u/13753919?v=3&s=460)] (https://github.com/Ricecoder) 
+
+#[Ricecoder] (https://github.com/Ricecoder)
+
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Tampa, FL, USA |
+| _:house:_ | Vero Beach, Florida |
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 

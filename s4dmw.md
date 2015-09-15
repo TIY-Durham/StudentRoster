@@ -1,10 +1,10 @@
-# [Terry Calhoun](https://github.com/drumslayert)
-# [drumslayert](https://github.com/drumslayert)
-[![Terry Calhoun](https://avatars0.githubusercontent.com/u/10352970?v=3&s=460)](https://github.com/drumslayert)
+# [David White](https://github.com/s4dmw)
+# [s4dmw](https://github.com/s4dmw)
+ [![David White](https://avatars0.githubusercontent.com/u/13879097?v=3&s=460)](https://github.com/s4dmw)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Tampa, FL, USA |
+| _:house:_ | Raleigh, NC|
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 
