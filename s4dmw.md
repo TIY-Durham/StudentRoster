@@ -15,8 +15,8 @@
 | _sport_  | :football:  |
 | _team_   | --- |
 | _drink_  | :beer:|
-| _food_   | --- |
-| _movie_  | --- |
+| _food_   | :hamburger: |
+| _movie_  | Brokeback Mtn |
 | _book_  | eww, gross |
 | _travel_ | lots |
 | _craft_  | :beer: |
