@@ -1,6 +1,6 @@
 # [Kristine Erickson](https://github.com/ericksonk)
 
-![Kristine Erickson](http://i.imgur.com/gi8YYlc.jpg?1)
+![Kristine Erickson](https://avatars0.githubusercontent.com/u/14016182?v=3&s=460)
 
 | category | value |
 |-----------|-------|
@@ -15,7 +15,7 @@
 | _sport_  | :football: :basketball: etc |
 | _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
+| _food_   | apple pie with ice cream |
 | _movie_  | --- |
 | _book_  | :books: |
 | _travel_ | :earth_americas: |
@@ -25,7 +25,7 @@
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
+| _zodiac_ | sagitarius |
 | _spirit animal_ | --- |
 | _celeb birthday_ | --- |
 
