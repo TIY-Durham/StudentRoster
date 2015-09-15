@@ -5,21 +5,21 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | Raleigh, NC|
-| _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ | _:calendar:_ |
+| _:dog:_ | Patch |
+| _:birthday:_ | February 24th |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
-| _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
-| _movie_  | --- |
-| _book_  | :books: |
-| _travel_ | :earth_americas: |
-| _craft_  | :art: |
+| _sport_  | Racing |
+| _team_   | None |
+| _drink_  | :beer: |
+| _food_   | :pizza: |
+| _movie_  | Fight Club |
+| _book_  | Dictionary |
+| _travel_ | All over |
+| _craft_  | :beer: |
 
 ## Esoteric :crystal_ball:
 
