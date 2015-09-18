@@ -26,7 +26,7 @@
 | category | value |
 |----------|-------|
 | _zodiac_ | --- |
-| _spirit animal_ | --- |
+| _spirit animal_ | :rabbit: |<---Thumper...drummer...get it?
 | _celeb birthday_ | --- |
 
 ## Apple Fanboy/Fangirl??
